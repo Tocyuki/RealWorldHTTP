@@ -1,3 +1,7 @@
+/*
+以下のコードは次のcurlコマンドと等価
+$ curl -v http://localhost:18888
+*/
 package main
 
 import (
