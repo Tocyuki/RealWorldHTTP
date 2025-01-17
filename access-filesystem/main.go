@@ -1,3 +1,7 @@
+/*
+以下のコードは次のcurlコマンドと等価
+$ curl file://main.go
+*/
 package main
 
 import (
